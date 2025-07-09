@@ -41,5 +41,5 @@ This project is a beautiful flower animation created using HTML, SCSS, and JavaS
 ## Contributing
 Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
 
-https://vedu2486.github.io/Flower-Animation/
+https://satorucommit.github.io/Flower-Animation/
 Enjoy the blooming flower animation! 🌸
